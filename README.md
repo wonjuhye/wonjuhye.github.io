@@ -11,12 +11,12 @@
 
 ## What I do now
 
-Software Development
-    - Language: c++, JAVA, Python, C#(for Unity)
-    - ROS(Robot Operating System)
-    - Software Simulation & Test
-    - Web Service With Flask, Jinja2 and Rest API
+1. Software Development<br/>
+- Language: c++, JAVA, Python, C#(for Unity)
+- ROS(Robot Operating System)
+- Software Simulation & Test
+- Web Service With Flask, Jinja2 and Rest API
 
-Studing Network Middleware for Connectivity
-    - SOME/IP, DDS, MQTT
+2. Studing Network Middleware for Connectivity<br/>
+- SOME/IP, DDS, MQTT
    
