@@ -3,10 +3,11 @@
 
 ## Who am I?
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
+| 순서 | 기간              | 재학 및 재직 활동 |
+| ---- | ----------------- | ----------------- |
+| 1    | 2015.03 ~ 2020.02 | KOREATECH<br/>(Computer Science & Engineering) |
+| 2    | 2020.03 ~  | KOREATECH, in Master Course<br/>(Computer Science & Engineering)   |
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
 
 ## What I do now
 
